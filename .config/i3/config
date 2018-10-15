@@ -163,10 +163,10 @@ bar {
 		background #230a24
 		statusline #ffffff
 		
-		focused_workspace  #aa003b #aa003b #ffffff
+		focused_workspace  #8bea88 #8bea88 #000000
 	        active_workspace   #230a24 #ffffff #333333
 	        inactive_workspace #230a24 #230a24 #b9b9b9 
-	        urgent_workspace   #aa003b #aa003b fffffff 
+	        urgent_workspace   #8bea88 #8bea88 #000000 
 	}
         status_command i3status -c $HOME/.config/i3/i3status.conf
         #status_command i3blocks -c $HOME/.config/i3/i3blocks.conf
