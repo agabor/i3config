@@ -160,7 +160,7 @@ bar {
 	separator_symbol " "
 	colors
 	{
-		background #230a24
+		background #22222a
 		statusline #ffffff
 		
 		focused_workspace  #8bea88 #8bea88 #000000
